@@ -1,6 +1,6 @@
 # Web Typography Class
 
-[Check out the wiki for a detailed class curriculum](https://github.com/scottkellum/web-typography-class/wiki)
+**[Check out the wiki for a detailed class curriculum](https://github.com/scottkellum/web-typography-class/wiki)**
 
 This is the repo for [Scott Kellum’s](https://scottkellum.com) _[Typography on The Web](http://coopertype.org/event/typography_on_the_web_sp2022)_ class at [Cooper Union](http://coopertype.org/).
 
