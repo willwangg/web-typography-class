@@ -1,6 +1,6 @@
 # Exercise 1
 
-For this exercise, make this article as compelling as possible using only the generic font families `serif`, `sans-serif`, `monospace`, `fantasy`, and `cursive`. Insert images and get a feeling for how the text flows and responds to the browser resizing. Experiment with different layouts and directions in which the text can flow. Manipulate the HTML and CSS as you see fit.
+For this exercise, make the text of this article as compelling as possible using only the generic font families `serif`, `sans-serif`, `monospace`, `fantasy`, and `cursive`. Insert images and get a feeling for how the text flows and responds to the browser resizing. Experiment with different layouts and directions in which the text can flow. Manipulate the HTML and CSS as you see fit.
 
 ## Working locally on your computer
 
