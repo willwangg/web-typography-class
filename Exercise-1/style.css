@@ -1,0 +1,31 @@
+html{
+    font-size:115%;
+    line-height: 1.6;
+    letter-spacing: 0.02em;
+    font-family: 'Times New Roman', Times, serif;
+    --primary: rgb(231, 85, 141);
+}
+
+body{
+    margin: 1em;
+}
+
+article{
+    margin:auto;
+    max-width: 70ch;
+    
+}
+
+p {
+    margin-block: 2rem;
+}
+
+img{
+    float: right;
+    max-width: 40ch;
+    margin: 1rem;
+}
+
+a:link {
+    color: var(--primary);
+}
